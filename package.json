@@ -1,0 +1,10 @@
+{
+    "devDependencies": {
+        "@applitools/eyes-playwright": "^1.1.0",
+        "mocha": "^8.1.3",
+        "playwright": "1.4.0"
+    },
+    "scripts": {
+        "test": "mocha --no-timeouts 'test/*.js'"
+    }
+}
