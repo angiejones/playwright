@@ -1,2 +1,3 @@
-# playwright
-Playing with Playwright
+# Playing with Playwright
+
+Examples of automating real test scenarios using Microsoft Playwright
